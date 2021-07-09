@@ -1,2 +1,0 @@
-# mainan
-Latihan Routify
